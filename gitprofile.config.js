@@ -36,6 +36,7 @@ const config = {
     'OOP',
     'Java',
     'Spring Boot',
+    'JPA'
     'Microservices',
     'RESTful API',
     'SQL',
@@ -57,41 +58,66 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Perficient',
+      position: 'Technical Consultant',
+      from: 'June 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.perficient.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'University of Minnesota',
+      position: 'Teaching Assistant',
+      from: 'September 2021',
+      to: 'May 2022',
+      companyLink: 'https://twin-cities.umn.edu',
+    },
+    {
+      company: 'Medtronic',
+      position: 'Computer Science Extern',
+      from: 'September 2021',
+      to: 'May 2022',
+      companyLink: 'https://twin-cities.umn.edu',
+    },
+    {
+      company: 'IDtech',
+      position: 'Online Coding Instructor',
+      from: 'June 2021',
+      to: 'October 2021',
+      companyLink: 'https://www.idtech.com',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Scrum Alliance Scrum Foundations',
+      year: 'June 2022'
     },
-  ], */
+    {
+      name: 'Microsift Power Platform PL-200',
+      year: 'October 2022'
+    },
+    {
+      name: 'React - The Complete Guide',
+      body: '(Udemy Course)',
+      year: 'November 2022'
+    },
+    {
+      name: 'Master Microservices with Spring Boot and Spring Cloud',
+      body: '(Udemy Course)',
+      year: 'November 2022'
+    },
+    {
+      name: 'PL-400: Microsoft Power Platform Developer',
+      body: '(Udemy Course)',
+      year: 'November 2022'
+    },
+  ], 
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      institution: 'University of Minnesota - Twin Cities',
+      degree: 'Bachelors of Science, Computer Science',
+      from: '2018',
+      to: '2022',
+    }
   ],
 
   // To hide the `My Projects` section, keep it empty.
