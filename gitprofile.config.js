@@ -36,7 +36,7 @@ const config = {
     'OOP',
     'Java',
     'Spring Boot',
-    'JPA'
+    'JPA',
     'Microservices',
     'RESTful API',
     'SQL',
@@ -84,7 +84,7 @@ const config = {
       from: 'June 2021',
       to: 'October 2021',
       companyLink: 'https://www.idtech.com',
-    },
+    }
   ],
   certifications: [
     {
@@ -109,7 +109,7 @@ const config = {
       name: 'PL-400: Microsoft Power Platform Developer',
       body: '(Udemy Course)',
       year: 'November 2022'
-    },
+    }
   ], 
   education: [
     {
