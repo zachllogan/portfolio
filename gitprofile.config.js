@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'zachary-logan',
+    linkedin: 'zachary-logan-8b3185216',
     twitter: '',
     mastodon: '',
     facebook: '',
@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/1QrdmCTNjdF9NUc8lbc88X65RLlSejN2VBlz5Lyn153Y/edit?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'OOP',
