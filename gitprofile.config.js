@@ -92,6 +92,14 @@ const config = {
       year: 'June 2022'
     },
     {
+      name: 'Azure AZ-204',
+      year: 'June 2024'
+    },
+    {
+      name: 'Microsift Power Platform PL-400',
+      year: 'April 2024'
+    },
+    {
       name: 'Microsift Power Platform PL-200',
       year: 'October 2022'
     },
@@ -102,11 +110,6 @@ const config = {
     },
     {
       name: 'Master Microservices with Spring Boot and Spring Cloud',
-      body: '(Udemy Course)',
-      year: 'November 2022'
-    },
-    {
-      name: 'PL-400: Microsoft Power Platform Developer',
       body: '(Udemy Course)',
       year: 'November 2022'
     }
