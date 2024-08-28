@@ -48,6 +48,8 @@ const config = {
     'RESTful API',
     'SQL',
     'DataBricks',
+    "Delta Lake",
+    "Spark",
     'Snowflake',
     'Azure',
     'Sitecore CMS',
