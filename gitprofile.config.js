@@ -52,6 +52,8 @@ const config = {
     "Spark",
     'Snowflake',
     'Azure',
+    'Terraform',
+    'CI/CD',
     'Sitecore CMS',
     'R',
     'Statistics',
@@ -95,8 +97,8 @@ const config = {
   ],
   certifications: [
     {
-      name: 'Scrum Alliance Scrum Foundations',
-      year: 'June 2022'
+      name: 'Databricks Certified Data Engineer Associate',
+      year: 'August 2024'
     },
     {
       name: 'Azure AZ-204',
@@ -119,6 +121,10 @@ const config = {
       name: 'Master Microservices with Spring Boot and Spring Cloud',
       body: '(Udemy Course)',
       year: 'November 2022'
+    },
+    {
+      name: 'Scrum Alliance Scrum Foundations',
+      year: 'June 2022'
     }
   ], 
   education: [
